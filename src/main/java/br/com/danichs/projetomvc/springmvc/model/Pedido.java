@@ -1,4 +1,4 @@
-package br.com.danichs.projetomvc.model;
+package br.com.danichs.projetomvc.springmvc.model;
 
 import java.math.BigDecimal;
 import java.time.LocalDate;

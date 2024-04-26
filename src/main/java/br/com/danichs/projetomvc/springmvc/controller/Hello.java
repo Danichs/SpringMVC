@@ -1,4 +1,4 @@
-package br.com.danichs.projetomvc.controller;
+package br.com.danichs.projetomvc.springmvc.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;
